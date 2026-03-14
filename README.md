@@ -6,10 +6,11 @@ I am building 100 Python projects to improve my programming and problem-solving 
 
 ## Projects
 
-| Day | Project |
-|----|--------|
-| Day 01 | Band Name Generator |
-| Day 02 | Tip Calculator |
-| Day 03 | Treasure Island Game |
+| Day    | Project                   |
+|--------|---------------------------|
+| Day 01 | Band Name Generator       |
+| Day 02 | Tip Calculator            |
+| Day 03 | Treasure Island Game      |
+| Day 04 | Stone Paper Scissors Game |
 
 More projects coming soon...
