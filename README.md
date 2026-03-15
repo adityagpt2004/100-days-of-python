@@ -12,5 +12,5 @@ I am building 100 Python projects to improve my programming and problem-solving 
 | Day 02 | Tip Calculator            |
 | Day 03 | Treasure Island Game      |
 | Day 04 | Stone Paper Scissors Game |
-
+| Day 05 | Password Generator        |
 More projects coming soon...
