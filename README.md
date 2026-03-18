@@ -14,4 +14,5 @@ I am building 100 Python projects to improve my programming and problem-solving 
 | Day 04 | Stone Paper Scissors Game |
 | Day 05 | Password Generator        |
 | Day 06 | Hangman Game              |
+| Day 07 | Caesar Cipher             |
 More projects coming soon...
